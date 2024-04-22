@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "Sedan", serif;
+  font-size: 60px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.links {
+  display: flex;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+.links > li {
+  list-style-type: none;
+}
+
+.links i {
+  font-size: 30px;
+  color: green;
+}
+
+.links i:hover {
+  cursor: pointer;
+  color: darkgreen;
+  animation: 1.5s ease-out 0s slidein infinite;
+}
+
+@keyframes slidein {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-5px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
