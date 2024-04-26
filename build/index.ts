@@ -56,6 +56,7 @@ function generateBlogPage(files: string[], frontmatters: any[]) {
   <head>
     <meta charset="UTF-8" />
     <title>~/blog</title>
+    <link rel="stylesheet" href="blog.css" />
   </head>
   <body>
     <ul>
