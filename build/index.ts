@@ -7,9 +7,9 @@ import { readdir } from "node:fs/promises";
 import yaml from "yaml";
 import type { isLiteralExpression } from "typescript";
 
-const BLOG_PATH = "./blogs/";
-const BUILD_PATH = "./build/";
-const OUTPUT_BLOG_PATH = "./build/blog/";
+const BLOG_PATH = "../blogs/";
+const BUILD_PATH = "../";
+const OUTPUT_BLOG_PATH = "../blog/";
 
 async function markdownToHtml(markdown: string) {
   const file = await unified()
