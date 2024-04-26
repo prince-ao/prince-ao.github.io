@@ -1,0 +1,22 @@
+{
+  "name": "prince-ao.github.io",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "bun index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "rehype-stringify": "^10.0.0",
+    "remark-frontmatter": "^5.0.0",
+    "remark-parse": "^11.0.0",
+    "remark-rehype": "^11.1.0",
+    "unified": "^11.0.4",
+    "yaml": "^2.4.1"
+  }
+}

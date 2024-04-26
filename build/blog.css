@@ -1,0 +1,8 @@
+ul > li {
+  display: flex;
+  list-style-type: none;
+}
+
+ul > li > p {
+  text-transform: capitalize;
+}
