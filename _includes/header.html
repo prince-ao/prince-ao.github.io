@@ -1,0 +1,13 @@
+<h2 class="title" style="font-size: 50px;">{{ site.title }}</h2>
+<nav>
+    <a href="{{ site.url }}">Home</a> 
+    <a href="{{ site.url }}{{ site.Blog }}">Blog</a>
+
+    {% for link in site.links %}
+        <a href="{{ site.url }}{{ link[1] }}" {% if link[0] == "Resume"%}target='_blank'{% endif %}>{{ link[0] }}</a>
+    {% endfor %}
+    
+    {% for link in site.special_links %}
+            <a href="{{ link[1] }}">[{{ link[0] }}]</a>
+    {% endfor %}
+</nav>
