@@ -17,6 +17,8 @@ whitelist:
 
 markdown: kramdown
 
+highlighter: rouge
+
 compress_html:
   clippings: all
   comments: [""]

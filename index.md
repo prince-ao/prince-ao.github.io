@@ -13,6 +13,4 @@ Hi, I'm Prince Addo, a software engineer passionate about applications and syste
 
 **GitHub**: [prince-ao](https://github.com/prince-ao)
 
-**LinkedIn**: [Prince Addo](https://www.linkedin.com/in/prince-addo-bbb303a6)
-
 **Discord**: princemfsn
