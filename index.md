@@ -5,7 +5,7 @@ title: Home
 
 ## About me
 
-Hi, I'm Prince Addo, a software engineer passionate about applications and systems.
+Hi, I'm Prince Addo, a software engineer passionate about building applications and systems.
 
 ## Socials
 
