@@ -53,7 +53,7 @@ To deploy like Pieter Levels, create a webhook route on the server, register tha
 
 <div style="margin-top: 25px; margin-bottom: 25px;"></div>
 
-There are several problems with this approach like maintaining the webhook code and not being able to scale easily. In the next post I will talk about using Github Actions to remove the need for writing our own webhook.
+There are several problems with this approach like maintaining the webhook code and not being able to scale easily.
 
 <div style="margin-top: 25px; margin-bottom: 25px;"></div>
 
@@ -412,4 +412,4 @@ There's is no testing in the pipeline, but that could be easily added after the 
 
 <div style="margin-top: 25px; margin-bottom: 25px;"></div>
 
-While maintaining a custom webhook has its challenges, this setup is a powerful way to rapidly deploy projects like Pieter Levels. In the next post, we’ll simplify this process even further with GitHub Actions, offering a more scalable and maintainable solution for fast CI/CD pipelines.
+While maintaining a custom webhook has its challenges, this setup is a powerful way to rapidly deploy projects like Pieter Levels.
