@@ -5,14 +5,12 @@ title: Home
 
 ## About me
 
-Hey there traveler! I'm Prince Addo, a professional software engineer with 3 years of experience, I've built tools for the banking industry. Some of my interests include:
+Hey there traveler! I'm Prince Addo, a professional software engineer with 3 years of experience working in fintech and devex. Some of my interests include:
 
 - building software to solve real-world problems (who would've guessed)
 - building mechanical keyboards
-- marathon racing
-- _great_ movies, books, and tv-shows
-- developer environment configuration
-- entrepreneurship
+- marathoning
+- _great_ movies and books
 
 ## Socials
 
